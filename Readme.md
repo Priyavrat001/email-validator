@@ -1,0 +1,1 @@
+This app is created using emailvalidate.io you can visit thier site learn about the emailvalidation.
